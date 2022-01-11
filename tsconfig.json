@@ -3,23 +3,28 @@
     /* Projects */
     "incremental": true,
     "composite": true,
+
     /* Language and Environment */
     "target": "ES2018",
     "lib": [],
     "jsx": "preserve",
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true,
+
     /* Modules */
     "module": "commonjs",
     "moduleResolution": "node",
     "resolveJsonModule": true,
+
     /* Emit */
     "declaration": true,
+
     /* Interop Constraints */
     "isolatedModules": true,
     "allowSyntheticDefaultImports": true,
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
+
     /* Type Checking */
     "strict": true,
     "noUnusedLocals": true,
@@ -30,6 +35,7 @@
     "noUncheckedIndexedAccess": true,
     "noImplicitOverride": true,
     "noPropertyAccessFromIndexSignature": true,
+
     /* Completeness */
     "skipLibCheck": true
   }
