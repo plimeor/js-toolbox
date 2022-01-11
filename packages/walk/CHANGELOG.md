@@ -1,5 +1,11 @@
 # @plimeor/walk-dir
 
+## 0.1.1
+
+### Patch Changes
+
+- [`943c4b4`](https://github.com/plimeor/js-toolbox/commit/943c4b43f282c4330514e934fffc440f70ba665c) Thanks [@plimeor](https://github.com/plimeor)! - Fix types
+
 ## 0.1.0
 
 ### Minor Changes
