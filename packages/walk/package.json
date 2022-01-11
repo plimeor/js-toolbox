@@ -1,6 +1,14 @@
 {
   "name": "@plimeor/walk-dir",
   "version": "0.1.0",
+  "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/plimeor/js-toolbox.git"
+  },
   "scripts": {
     "build": "tsc",
     "watch": "tsc -w",
