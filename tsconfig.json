@@ -15,8 +15,6 @@
     "resolveJsonModule": true,
     /* Emit */
     "declaration": true,
-    "declarationMap": true,
-    "sourceMap": true,
     /* Interop Constraints */
     "isolatedModules": true,
     "allowSyntheticDefaultImports": true,
